@@ -10,12 +10,12 @@
       ],
     
    "logo": "https://te.legra.ph/file/d2d656ff1e4a61c9feff8.jpg",  
-   "repository": "https://github.com/IR-O/IRO_ROBOT",
+   "repository": "https://github.com/TheDxCoderteam/Baby0Managenent",
    "stack": "heroku-22",
    "addons": [
           {
          "options": {
-            "version": "13"
+            "version": "16"
          },
          "plan": "heroku-postgresql"
       }
@@ -47,7 +47,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "6045293810"
+         "value": ""
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session get it form @Iro_string_bot .",
@@ -72,21 +72,21 @@
       },  
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "Iro_m_bot"
+         "value": ""
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "shaeep43"
+         "value": ""
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "iro_x_support"
+         "value": ""
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram update channel chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "iro_bot_support"
+         "value": ""
       },         
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -96,7 +96,7 @@
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": "-xyz"
+         "value": ""
       }, 
       "OPENWEATHERMAP_ID": {
         "description": "Get your own API from https://api.openweathermap.org/data/2.5/weather",
