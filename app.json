@@ -49,11 +49,6 @@
          "required": true,
          "value": ""
       },
-      "STRING_SESSION": {
-         "description": "Fill with telethon string session get it form @Iro_string_bot .",
-         "required": true,
-         "value": "" 
-      },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
         "value": ""
@@ -164,11 +159,6 @@
          "description": "Dont load these modules cause they shit, space separation",
          "required": false,
          "value": "rss"
-      }, 
-      "BL_CHATS": {
-         "description": "List of chats you want blacklisted.",
-         "required": false,
-         "value": ""
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
