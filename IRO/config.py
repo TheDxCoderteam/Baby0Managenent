@@ -12,23 +12,23 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
      
-    API_ID = 123456  # integer value, dont use "" this sign get it form my.telegram.org
+    API_ID = ""  # integer value, dont use "" this sign get it form my.telegram.org
     API_HASH = "" # get it form my.telegram.org
     TOKEN = ""  # get it form @botfather.
-    OWNER_ID = 6045293810  # got to @Iro_m_bot and type /id
-    OWNER_USERNAME = "shaeep43" # your telegram username
+    OWNER_ID = 5724322712  # got to @Iro_m_bot and type /id
+    OWNER_USERNAME = "Itz_prince_king" # your telegram username
     ALLOW_CHATS = True # leave it as it is
-    BOT_USERNAME = "Iro_m_bot" # your bot username get it form @botfather
-    SUPPORT_CHAT = "iro_x_support"  # Your own group for support, do not add the @ if you dont have leave it as it is
-    UPDATES_CHANNEL = "iro_bot_support"  # Your own chsnnel for support, do not add the @ if you dont have leave it as it is
+    BOT_USERNAME = "" # your bot username get it form @botfather
+    SUPPORT_CHAT = "THE_CUTE_BOY_OP"  # Your own group for support, do not add the @ if you dont have leave it as it is
+    UPDATES_CHANNEL = "NeoUpdatess"  # Your own chsnnel for support, do not add the @ if you dont have leave it as it is
     JOIN_LOGGER =  (
-        -1001690301851
+        -1001826525170
     )  # add @Iro_m_bot in your group and type /id
     EVENT_LOGS = (
-        -1001690301851
+        -1001826525170
     )  # add @Iro_m_bot in your group and type /id
     ERROR_LOG = (
-        -1001690301851
+        -1001826525170
     )  # add @Iro_m_bot in your group and type /id
     STRICT_GMUTE = True #to allow gmutes
     START_STICKER = "" #sticker id for start animation
@@ -49,7 +49,7 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@iro_x_support"
+    SPAMWATCH_SUPPORT_CHAT = "@THE_CUTE_BOY_OP"
 
 
     # OPTIONAL
@@ -62,7 +62,7 @@ class Config(object):
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
     TIGERS = [6045293810]
     WOLVES = [6045293810]
-    START_IMG = "https://te.legra.ph/file/32018201f5562ffa3fcc9.jpg" #yor fav img link
+    START_IMG = "https://graph.org/file/0e63ef1e60dd367a3daa5.jpg" #yor fav img link
     CERT_PATH = None
     PORT = 5000
     DEL_CMDS = True  # Delete commands that users dont have access to, like delete /ban if a non admin uses it.
