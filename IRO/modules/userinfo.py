@@ -353,7 +353,7 @@ def info(update: Update, context: CallbackContext):
                 [
                     [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://graph.org/Pikสcђu-09-29-2"),
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/NeoUpdatess"),
                             InlineKeyboardButton(
                                 "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")
                     ],
@@ -371,7 +371,7 @@ def info(update: Update, context: CallbackContext):
                     [
 [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://graph.org/Pikสcђu-09-29-2"),
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/NeoUpdatess"),
                             InlineKeyboardButton(
                                 "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")
                     ],
